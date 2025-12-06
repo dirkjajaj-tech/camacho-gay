@@ -1,0 +1,69 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "temperate_grove": "2025-12-02 19:54:52 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "temperate_grove": "2025-12-02 19:54:52 +0000"
+    },
+    "done": false
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-12-02 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
